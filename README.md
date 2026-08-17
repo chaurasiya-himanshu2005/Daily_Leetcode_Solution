@@ -10,11 +10,13 @@ I have just started by coding journey basically started from since 1st january b
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
 ## Floyd's Cycle Finding Algorithm
