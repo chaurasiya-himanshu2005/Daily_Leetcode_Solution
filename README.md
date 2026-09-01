@@ -38,6 +38,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0682-baseball-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
@@ -47,6 +48,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0069-sqrtx/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
@@ -65,6 +67,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
 | [0682-baseball-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,6 +115,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +124,8 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0069-sqrtx/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
