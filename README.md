@@ -38,6 +38,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0682-baseball-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
+| [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -49,6 +50,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0069-sqrtx/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -113,6 +115,7 @@ I have just started by coding journey basically started from since 1st january b
 | ------- | ------- |
 | [0119-pascals-triangle-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,4 +133,16 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
