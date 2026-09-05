@@ -45,6 +45,7 @@ I have just started by coding journey basically started from since 1st january b
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,6 +103,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0238-product-of-array-except-self/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
