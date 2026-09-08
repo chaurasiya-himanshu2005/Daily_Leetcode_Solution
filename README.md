@@ -165,17 +165,21 @@ I have just started by coding journey basically started from since 1st january b
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0100-same-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0100-same-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0100-same-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0100-same-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
