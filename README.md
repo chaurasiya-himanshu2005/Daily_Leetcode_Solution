@@ -61,6 +61,7 @@ I have just started by coding journey basically started from since 1st january b
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
