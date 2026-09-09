@@ -40,6 +40,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0238-product-of-array-except-self](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
@@ -71,6 +72,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Simulation
@@ -93,6 +95,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
