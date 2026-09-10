@@ -11,10 +11,14 @@
  */
 class Solution {
 public:
-    
     bool hasPathSum(TreeNode* root, int targetSum) {
         if(root == NULL) return false;
-        if(root->left == NULL && root->right == NULL) return (root->val == targetSum);
-        return hasPathSum(root->left,targetSum-root->val) || hasPathSum(root->right,targetSum-root->val);
+        if(root->left == NULL && root->right == NULL){
+            return (root->val == targetSum);
+        }
+        bool con1 = hasPathSum(root->left, targetSum - root->val); // for left search
+        bool con2 = hasPathSum(root->right,targetSum - root->val);// for right search
+        // either on the left tree or right tree
+        return con1 or con2;
     }
 };
