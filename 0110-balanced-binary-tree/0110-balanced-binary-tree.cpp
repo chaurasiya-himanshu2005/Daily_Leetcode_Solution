@@ -16,11 +16,11 @@ public:
         if(root == NULL) return 0;
         int left = levels(root->left);
         int right = levels(root->right);
-        if(abs(left-right)> 1) ans = false;
+        if(abs(left-right) > 1) ans = false;
         return 1 + max(left, right);
     }
     bool isBalanced(TreeNode* root) {
-        ans = true;
+        ans = true; //true means balanced
         levels(root);
         return ans;
     }
