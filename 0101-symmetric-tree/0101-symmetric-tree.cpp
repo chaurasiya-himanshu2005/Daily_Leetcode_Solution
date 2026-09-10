@@ -11,13 +11,22 @@
  */
 class Solution {
 public:
-    bool areInverts(TreeNode* p, TreeNode* q){
+    void invert(TreeNode* root){
+        if(root == NULL) return;
+        swap(root->left, root->right);
+        invert(root->left);
+        invert(root->right);
+    }
+    bool isSameTree(TreeNode* p, TreeNode* q){
         if(p == NULL && q == NULL) return true;
         if(p == NULL || q == NULL) return false;
         if(p->val != q->val) return false;
-        return areInverts(p->left,q->right) && areInverts(p->right,q->left);
+        return isSameTree(p->left, q->left) and isSameTree(p->right, q->right);
     }
     bool isSymmetric(TreeNode* root) {
-        return areInverts(root->left, root->right);
+        invert(root->left);
+        bool ans = isSameTree(root->left, root->right);
+        invert(root->left); // make the tree original 
+        return ans;
     }
 };
