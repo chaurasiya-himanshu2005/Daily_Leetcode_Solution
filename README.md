@@ -38,6 +38,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0027-remove-element/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0118-pascals-triangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -78,6 +79,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
@@ -106,6 +108,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -252,4 +255,8 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
