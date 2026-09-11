@@ -10,6 +10,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
@@ -50,6 +51,7 @@ I have just started by coding journey basically started from since 1st january b
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
@@ -95,6 +97,7 @@ I have just started by coding journey basically started from since 1st january b
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -109,6 +112,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
@@ -149,6 +153,7 @@ I have just started by coding journey basically started from since 1st january b
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
