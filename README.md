@@ -85,6 +85,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0094-binary-tree-inorder-traversal](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0155-min-stack](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0682-baseball-game/) | Easy |
@@ -264,4 +265,8 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
