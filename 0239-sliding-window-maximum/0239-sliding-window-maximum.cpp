@@ -15,9 +15,9 @@ public:
         }
 
          vector<int> ans(n-k+1);
+         int j = 0;
         for(int i = 0; i < n-k+1; i++){ // traversing all windows
-            int j = i; // nge[j]
-
+            if(j < i) j = i;
             while(nge[j] != -1 && nge[j] < i+k) j = nge[j];
 
             ans[i] = nums[j];
