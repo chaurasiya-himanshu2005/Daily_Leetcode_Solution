@@ -79,6 +79,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -331,6 +332,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
