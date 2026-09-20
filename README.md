@@ -116,6 +116,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0867-transpose-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0151-reverse-words-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0443-string-compression/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
