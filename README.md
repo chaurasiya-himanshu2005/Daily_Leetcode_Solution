@@ -7,6 +7,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
@@ -50,6 +51,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0118-pascals-triangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -91,6 +93,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -122,6 +125,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -353,4 +357,12 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
