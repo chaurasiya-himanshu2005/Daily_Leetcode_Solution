@@ -19,6 +19,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
@@ -197,6 +198,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
