@@ -14,6 +14,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0496-next-greater-element-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
@@ -74,6 +75,7 @@ I have just started by coding journey basically started from since 1st january b
 | [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -92,6 +94,7 @@ I have just started by coding journey basically started from since 1st january b
 | [1401-circle-and-rectangle-overlapping](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3871-count-commas-in-range-ii/) | Medium |
@@ -142,6 +145,7 @@ I have just started by coding journey basically started from since 1st january b
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0085-maximal-rectangle/) | Hard |
 | [0867-transpose-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
