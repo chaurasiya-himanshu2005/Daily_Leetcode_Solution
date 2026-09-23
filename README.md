@@ -74,6 +74,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0682-baseball-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -96,6 +97,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -144,6 +146,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
@@ -368,6 +371,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0836-rectangle-overlap/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -379,6 +383,7 @@ I have just started by coding journey basically started from since 1st january b
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -387,6 +392,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -395,4 +401,12 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
