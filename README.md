@@ -42,6 +42,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0443-string-compression](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0443-string-compression/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Floyd's Cycle Finding Algorithm
@@ -69,6 +70,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
@@ -141,6 +143,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
@@ -171,6 +174,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0287-find-the-duplicate-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -369,10 +373,12 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
