@@ -6,6 +6,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -96,6 +97,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -201,6 +203,7 @@ I have just started by coding journey basically started from since 1st january b
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
