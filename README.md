@@ -139,6 +139,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0682-baseball-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -211,6 +212,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0151-reverse-words-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0443-string-compression/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -264,6 +266,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
