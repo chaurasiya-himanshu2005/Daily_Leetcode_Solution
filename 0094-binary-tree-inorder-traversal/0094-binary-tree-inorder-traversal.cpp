@@ -11,15 +11,31 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, vector<int>& ans){
-        if(root == NULL) return;
-        dfs(root->left, ans);
-        ans.push_back(root->val);
-        dfs(root->right,ans);
-    }
     vector<int> inorderTraversal(TreeNode* root) {
+        // Moris Traversal
         vector<int> ans;
-        dfs(root, ans);
+        TreeNode* curr = root;
+        while(curr != NULL){
+            if(curr->left != NULL){
+                TreeNode* pred = curr->left;
+                while(pred->right != NULL && pred->right != curr){
+                    pred = pred->right;
+                }
+                if(pred->right == NULL){ // link
+                    pred->right = curr;
+                    curr = curr->left;
+                }
+                else{ // pred->right == curr : unlink
+                    pred->right = NULL;
+                    ans.push_back(curr->val);
+                    curr = curr->right;
+                }
+            } 
+            else{ // curr->left == NULL
+                ans.push_back(curr->val);
+                curr = curr->right;
+            }
+        }
         return ans;
     }
 };
