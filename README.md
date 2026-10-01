@@ -111,6 +111,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0062-unique-paths](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -243,6 +244,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0062-unique-paths](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0062-unique-paths/) | Medium |
 | [0085-maximal-rectangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -496,4 +498,8 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0881-boats-to-save-people/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
