@@ -15,6 +15,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0347-top-k-frequent-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -134,6 +135,7 @@ I have just started by coding journey basically started from since 1st january b
 | ------- | ------- |
 | [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -230,6 +232,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0020-valid-parentheses](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0443-string-compression/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -273,6 +276,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
