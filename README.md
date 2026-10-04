@@ -45,6 +45,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0061-rotate-list](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0075-sort-colors/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -233,6 +234,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0013-roman-to-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
+| [0125-valid-palindrome](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
