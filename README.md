@@ -110,6 +110,7 @@ I have just started by coding journey basically started from since 1st january b
 | [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
@@ -219,6 +220,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Binary Search
