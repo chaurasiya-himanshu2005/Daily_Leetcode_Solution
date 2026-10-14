@@ -117,6 +117,7 @@ I have just started by coding journey basically started from since 1st january b
 | [2778-sum-of-squares-of-special-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -200,6 +201,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -243,6 +245,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0881-boats-to-save-people/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/4000-largest-integer-with-given-digit-sum/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
