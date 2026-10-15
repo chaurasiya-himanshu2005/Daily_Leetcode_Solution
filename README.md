@@ -41,6 +41,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0027-remove-element/) | Easy |
@@ -70,6 +71,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0027-remove-element/) | Easy |
@@ -249,6 +251,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0881-boats-to-save-people](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
