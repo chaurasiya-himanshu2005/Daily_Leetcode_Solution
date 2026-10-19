@@ -122,6 +122,7 @@ I have just started by coding journey basically started from since 1st january b
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
@@ -215,6 +216,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0881-boats-to-save-people](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3731-find-missing-elements/) | Easy |
@@ -257,6 +259,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0410-split-array-largest-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
