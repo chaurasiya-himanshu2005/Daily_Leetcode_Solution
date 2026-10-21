@@ -126,6 +126,7 @@ I have just started by coding journey basically started from since 1st january b
 | [2094-finding-3-digit-even-numbers](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -166,6 +167,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0347-top-k-frequent-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,6 +263,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
