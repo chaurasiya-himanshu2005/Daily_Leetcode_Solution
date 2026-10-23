@@ -305,6 +305,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0338-counting-bits/) | Easy |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
