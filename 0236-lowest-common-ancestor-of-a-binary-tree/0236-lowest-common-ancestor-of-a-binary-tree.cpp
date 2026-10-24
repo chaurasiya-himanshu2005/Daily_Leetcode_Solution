@@ -9,29 +9,14 @@
  */
 class Solution {
 public:
-    vector<TreeNode*> a;
-    vector<TreeNode*> b;
-    void paths(TreeNode* root, vector<TreeNode*>& arr, TreeNode* p, TreeNode* q){
-        if(root == NULL) return;
-        arr.push_back(root);
-        if(root == p) a = arr; // a me arr ki copy gyi hai
-        if(root == q) b = arr; // b. me arr ki copy gyi hai
-        paths(root->left, arr,p, q);
-        paths(root->right, arr, p, q);
-        arr.pop_back();
-    }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        a.resize(0);
-        b.resize(0);
-        vector<TreeNode*> arr;
-        paths(root,arr, p, q);
-        int i = 0, j = 0;
-        while(i< a.size() && j < b.size()){
-            if(a[i] == b[j]){
-                i++;
-                j++;
-            }else break;
-        }
-        return a[i-1];
+        if(root == NULL || root == p || root == q) return root;
+
+        TreeNode* left = lowestCommonAncestor(root->left, p, q);
+        TreeNode* right = lowestCommonAncestor(root->right, p, q);
+
+        if(left != NULL && right != NULL) return root;
+        if(left != NULL) return left;
+        return right;
     }
 };
