@@ -11,19 +11,14 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, vector<int>& ans){
-        if(root == NULL) return ;
-        dfs(root->left, ans);
-        ans.push_back(root->val);
-        dfs(root->right, ans);
+    bool helper(TreeNode* root, TreeNode* min, TreeNode* max){
+        if(root == NULL) return true;
+        if(min != NULL && root->val <= min->val) return false;
+        else if(max != NULL && root->val >= max->val) return false;
+
+        return helper(root->left, min, root) && helper(root->right, root, max);
     }
     bool isValidBST(TreeNode* root) {
-        vector<int> ans;
-        dfs(root,ans);
-        int n = ans.size();
-        for(int i = 0; i<n-1; i++){
-            if(ans[i] >= ans[i+1]) return false;
-        }
-        return true;
+        return helper(root, NULL, NULL);
     }
 };
