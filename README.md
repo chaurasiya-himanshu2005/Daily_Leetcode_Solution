@@ -12,6 +12,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0141-linked-list-cycle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
+| [0208-implement-trie-prefix-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -291,6 +292,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0443-string-compression/) | Medium |
@@ -491,6 +493,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0155-min-stack/) | Medium |
+| [0208-implement-trie-prefix-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -593,4 +596,8 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 <!---LeetCode Topics End-->
