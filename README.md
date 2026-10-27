@@ -80,6 +80,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0075-sort-colors/) | Medium |
@@ -269,6 +270,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0455-assign-cookies/) | Easy |
@@ -312,6 +314,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0045-jump-game-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0062-unique-paths](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0062-unique-paths/) | Medium |
 | [0085-maximal-rectangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0118-pascals-triangle/) | Easy |
