@@ -7,6 +7,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0013-roman-to-integer/) | Easy |
+| [0073-set-matrix-zeroes](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
@@ -83,6 +84,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0045-jump-game-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0085-maximal-rectangle/) | Hard |
@@ -230,6 +232,7 @@ I have just started by coding journey basically started from since 1st january b
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0054-spiral-matrix/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0085-maximal-rectangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
