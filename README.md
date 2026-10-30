@@ -6,6 +6,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -76,6 +77,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0018-4sum/) | Medium |
