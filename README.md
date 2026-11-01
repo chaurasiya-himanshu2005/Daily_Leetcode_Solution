@@ -149,6 +149,7 @@ I have just started by coding journey basically started from since 1st january b
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0069-sqrtx/) | Easy |
@@ -340,6 +341,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0050-powx-n](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
