@@ -96,6 +96,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0119-pascals-triangle-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0162-find-peak-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -266,6 +267,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0069-sqrtx/) | Easy |
+| [0162-find-peak-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
