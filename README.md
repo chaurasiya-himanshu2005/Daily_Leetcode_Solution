@@ -87,6 +87,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0042-trapping-rain-water](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0075-sort-colors/) | Medium |
@@ -334,6 +335,7 @@ I have just started by coding journey basically started from since 1st january b
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0045-jump-game-ii/) | Medium |
+| [0053-maximum-subarray](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0062-unique-paths/) | Medium |
 | [0085-maximal-rectangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0118-pascals-triangle/) | Easy |
@@ -571,6 +573,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
