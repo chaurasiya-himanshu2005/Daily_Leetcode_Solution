@@ -59,6 +59,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0141-linked-list-cycle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -100,6 +101,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0150-evaluate-reverse-polish-notation](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0198-house-robber/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -160,6 +162,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0836-rectangle-overlap/) | Easy |
