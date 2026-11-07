@@ -21,6 +21,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
@@ -66,6 +67,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0443-string-compression](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0455-assign-cookies/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0881-boats-to-save-people/) | Medium |
@@ -118,6 +120,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0455-assign-cookies](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0682-baseball-game/) | Easy |
@@ -236,6 +239,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0455-assign-cookies/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -283,6 +287,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0532-k-diff-pairs-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
