@@ -6,8 +6,8 @@ public:
         int mid = nums[n/2];
         int moves = 0;
 
-        for(int i : nums){
-            moves += abs(mid - i);
+        for(int i=0; i<n; i++){
+            moves += abs(mid - nums[i]);
         }
 
         return moves;
