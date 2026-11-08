@@ -285,6 +285,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0287-find-the-duplicate-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -634,4 +635,8 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
