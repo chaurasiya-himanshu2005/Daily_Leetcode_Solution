@@ -118,6 +118,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0410-split-array-largest-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -167,6 +168,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0150-evaluate-reverse-polish-notation](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
@@ -239,6 +241,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0455-assign-cookies/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0881-boats-to-save-people](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0881-boats-to-save-people/) | Medium |
