@@ -128,6 +128,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0682-baseball-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0682-baseball-game/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0860-lemonade-change/) | Easy |
 | [0867-transpose-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
@@ -296,6 +297,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0532-k-diff-pairs-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -644,4 +646,8 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
