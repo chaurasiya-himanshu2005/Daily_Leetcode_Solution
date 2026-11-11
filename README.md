@@ -169,6 +169,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0067-add-binary](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
