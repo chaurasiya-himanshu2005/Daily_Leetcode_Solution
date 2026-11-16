@@ -95,6 +95,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0053-maximum-subarray](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0075-sort-colors/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0085-maximal-rectangle/) | Hard |
@@ -264,6 +265,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0048-rotate-image](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0085-maximal-rectangle](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -291,6 +293,7 @@ I have just started by coding journey basically started from since 1st january b
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0162-find-peak-element/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0287-find-the-duplicate-number/) | Medium |
