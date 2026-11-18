@@ -177,6 +177,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0189-rotate-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0189-rotate-array/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0367-valid-perfect-square](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0367-valid-perfect-square/) | Easy |
+| [0441-arranging-coins](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0441-arranging-coins/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0836-rectangle-overlap/) | Easy |
@@ -305,6 +306,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0374-guess-number-higher-or-lower](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0441-arranging-coins](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0441-arranging-coins/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0658-find-k-closest-elements](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0658-find-k-closest-elements/) | Medium |
