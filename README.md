@@ -166,6 +166,7 @@ I have just started by coding journey basically started from since 1st january b
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0007-reverse-integer/) | Medium |
 | [0013-roman-to-integer](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0050-powx-n/) | Medium |
