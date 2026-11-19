@@ -1,12 +1,13 @@
 class Solution {
 public:
-    int paths(int m, int n, vector<vector<int>>& dp){
-        if(m==1 or n==1) return 1;
-        if(dp[m][n] != -1) return dp[m][n];
-        return dp[m][n] = paths(m,n-1,dp) + paths(m-1,n,dp);
-    }
     int uniquePaths(int m, int n) {
-        vector<vector<int>> dp(m+1,vector<int>(n+1, -1));
-        return paths(m, n,dp);
+        vector<vector<int>> dp(2, vector<int>(n, 1));
+        for(int i = 1; i<m; i++){
+            for(int j = 1; j<n; j++){
+                dp[1][j] = dp[0][j] + dp[1][j-1];
+            }
+            dp[0] = dp[1]; // oth row me 1st row copy krdo
+        }
+        return dp[1][n-1];
     }
 };
