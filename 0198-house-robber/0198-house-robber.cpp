@@ -1,15 +1,18 @@
 class Solution {
 public:
-    int loot(int idx, vector<int>& nums, vector<int>& dp){ // idx = 0 to n-1
-        if(idx >= nums.size()) return 0;
-        if(dp[idx] != -1) return dp[idx];
-        int pick = nums[idx] + loot(idx+2, nums, dp);
-        int skip = loot(idx+1, nums, dp);
-        dp[idx] = max(pick, skip);
-        return dp[idx];
-    }
     int rob(vector<int>& nums) {
-        vector<int> dp(nums.size(), -1);
-        return loot(0, nums, dp);
+        int n = nums.size();
+        if(n == 1) return nums[0];
+        if(n == 2) return max(nums[0], nums[1]);
+        vector<int> dp(3);
+        dp[0] = nums[0];
+        if(n > 1) dp[1] = max(nums[0],nums[1]);
+        for(int i=2; i<n; i++){
+            dp[2] = max(nums[i]+dp[0], dp[1]);
+            dp[0] = dp[1];
+            dp[1] = dp[2];
+        }
+
+        return dp[2];
     }
 };
