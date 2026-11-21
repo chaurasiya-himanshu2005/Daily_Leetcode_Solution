@@ -165,6 +165,7 @@ I have just started by coding journey basically started from since 1st january b
 | [3875-construct-uniform-parity-array-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [4020-elevator-requests-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/4020-elevator-requests-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@ I have just started by coding journey basically started from since 1st january b
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [4020-elevator-requests-i](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/4020-elevator-requests-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
