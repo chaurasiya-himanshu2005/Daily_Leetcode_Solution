@@ -2,7 +2,7 @@
 
 <p>You are also given an integer array <code>requests</code>, where <code>requests</code> represents the sequence of floor requests.</p>
 
-<p>An elevator starts at floor 0, and follows these rules:</p>
+<p>An elevator starts at floor 0 and follows these rules:</p>
 
 <ul>
 	<li>The elevator moves one floor per second.</li>
@@ -11,7 +11,7 @@
 	<li>After serving a request, the elevator immediately starts moving toward the next request.</li>
 </ul>
 
-<p>Return the <strong>total time</strong> (in seconds) required to serve all requests.</p>
+<p>Return the <strong>total time</strong> in seconds required to serve all requests.</p>
 
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
