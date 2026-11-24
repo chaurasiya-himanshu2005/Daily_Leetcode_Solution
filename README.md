@@ -189,6 +189,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0836-rectangle-overlap](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2409-count-days-spent-together](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2409-count-days-spent-together/) | Easy |
@@ -388,6 +389,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -403,6 +405,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [1137-n-th-tribonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
