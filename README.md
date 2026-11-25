@@ -365,6 +365,7 @@ I have just started by coding journey basically started from since 1st january b
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2409-count-days-spent-together](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -396,6 +397,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
