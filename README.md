@@ -360,6 +360,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0242-valid-anagram](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0443-string-compression](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0443-string-compression/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0856-score-of-parentheses](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0856-score-of-parentheses/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -390,6 +391,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0416-partition-equal-subset-sum](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0509-fibonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
