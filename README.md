@@ -495,6 +495,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0547-number-of-provinces](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0669-trim-a-binary-search-tree/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
@@ -511,6 +512,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0199-binary-tree-right-side-view](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0547-number-of-provinces](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0547-number-of-provinces/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -661,6 +663,7 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0547-number-of-provinces](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0547-number-of-provinces/) | Medium |
 ## Timsort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -705,4 +708,8 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
