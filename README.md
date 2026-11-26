@@ -497,6 +497,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0365-water-and-jug-problem](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0547-number-of-provinces](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0669-trim-a-binary-search-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0669-trim-a-binary-search-tree/) | Medium |
+| [0841-keys-and-rooms](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
 ## Breadth-First Search
@@ -513,6 +514,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0226-invert-binary-tree](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0365-water-and-jug-problem](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0547-number-of-provinces](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0841-keys-and-rooms/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -712,4 +714,5 @@ I have just started by coding journey basically started from since 1st january b
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
