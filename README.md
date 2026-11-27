@@ -142,6 +142,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0877-stone-game](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0877-stone-game/) | Medium |
 | [0881-boats-to-save-people](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0881-boats-to-save-people/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [0994-rotting-oranges](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1046-last-stone-weight](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1046-last-stone-weight/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -283,6 +284,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0240-search-a-2d-matrix-ii](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0867-transpose-matrix/) | Easy |
+| [0994-rotting-oranges](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0994-rotting-oranges/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -515,6 +517,7 @@ I have just started by coding journey basically started from since 1st january b
 | [0365-water-and-jug-problem](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0365-water-and-jug-problem/) | Medium |
 | [0547-number-of-provinces](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/chaurasiya-himanshu2005/Daily_Leetcode_Solution/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
